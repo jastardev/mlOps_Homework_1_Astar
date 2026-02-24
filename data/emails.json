@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "subject": "Project Deadline Moved to Friday",
+    "body": "Hi team, the client has requested that we move the delivery deadline to this Friday at 3 PM. Please prioritize final testing and documentation so we can submit on time. Let me know immediately if you foresee any blockers.",
+    "topic": "work"
+  },
+  {
+    "subject": "Dinner This Weekend?",
+    "body": "Hey, are you free to grab dinner on Saturday night? I found a new place downtown that looks really good, and I\u2019d love to catch up. Let me know what time works for you.",
+    "topic": "personal"
+  },
+  {
+    "subject": "Limited Time: 30% Off All Laptops",
+    "body": "For the next 48 hours, enjoy 30% off all laptops in our online store. This exclusive offer includes free shipping and extended warranty options. Shop now before the deal expires.",
+    "topic": "promotion"
+  },
+  {
+    "subject": "Your Weekly Tech Roundup",
+    "body": "Welcome to this week\u2019s edition of our tech roundup. We\u2019re covering the latest developments in AI, cybersecurity trends, and new product launches. Stay tuned for next week\u2019s update.",
+    "topic": "newsletter"
+  },
+  {
+    "subject": "Ticket Update: Login Issue Resolved",
+    "body": "We\u2019ve identified the cause of your login issue and have reset your account settings. Please try signing in again and let us know if the problem persists. Thank you for your patience.",
+    "topic": "support"
+  },
+  {
+    "subject": "Earn $5,000 a Week from Home!",
+    "body": "Congratulations! You\u2019ve been selected for a secret opportunity to earn thousands of dollars per week with zero experience required. Click the link below to activate your account before it\u2019s too late.",
+    "topic": "Spam"
+  }
+]

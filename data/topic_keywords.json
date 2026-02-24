@@ -13,5 +13,8 @@
   },
   "support": {
     "description": "Customer support, help requests, and technical issues"
+  },
+  "Spam": {
+    "description": "These emails are unsolicited and usually sell garbage products like weight loss pills or advertise services like fake crypto currency mining apps."
   }
 }
